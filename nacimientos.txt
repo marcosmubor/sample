@@ -1,0 +1,25 @@
+Nombre, ID Hospital, Región, Fecha de Nacimiento, Sexo
+Ana Pérez, 1, Metropolitana de Santiago, 2024-04-01, F
+Juan García, 2, Metropolitana de Santiago, 2024-04-05, M
+Sofia Martínez, 3, Metropolitana de Santiago, 2024-04-10, F
+Pedro González, 4, Metropolitana de Santiago, 2024-04-15, M
+María López, 5, Metropolitana de Santiago, 2024-04-20, F
+Diego Silva, 6, Metropolitana de Santiago, 2024-04-25, M
+Valentina Fernández, 7, Metropolitana de Santiago, 2024-04-30, F
+Ignacio Rodríguez, 5, Metropolitana de Santiago, 2024-05-05, M
+Catalina Campos, 1, Metropolitana de Santiago, 2023-05-10, F
+Alejandro Muñoz, 8, Metropolitana de Santiago, 2023-05-15, M
+Isabella Sandoval, 5, Metropolitana de Santiago, 2023-05-20, F
+Matías Castro, 9, Metropolitana de Santiago, 2023-05-25, M
+Amanda Reyes, 10, Maule, 2024-04-01, F
+Benjamín Díaz, 11, Biobío, 2024-04-05, M
+Camila Herrera, 12, Antofagasta, 2024-04-10, F
+José Torres, 3, Metropolitana de Santiago, 2024-04-15, M
+Nicole Sandoval, 13, Valparaíso, 2024-04-20, F
+David Ramírez, 14, Araucanía, 2024-04-25, M
+Elisa Fuentes, 15, Coquimbo, 2024-04-30, F
+Kevin González, 12, Antofagasta, 2024-05-05, M
+Daniela Moreno, 16, Los Lagos, 2022-05-10, F
+Gabriel Soto, 17, Magallanes, 2023-03-15, M
+Mariana Pérez, 13, Valparaíso, 2021-05-20, F
+Sebastián Gómez, 18, Arica y Parinacota, 2023-05-25, M
