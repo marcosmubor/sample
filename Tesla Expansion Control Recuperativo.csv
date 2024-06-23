@@ -1,0 +1,18 @@
+﻿ID Articulo,Articulo,Pais,Región,Modelo Año,Batería (kWh),Demanda Estimada,Precio Unitario,Moneda Local,Costo Estimado Producción
+1001,Model S,Estados Unidos,Otra,2024,100,10000,85000,USD,36000
+1002,Model 3,China,Otra,2024,75,25000,48000,CNY,32000
+1003,Model X,Alemania,Otra,2024,110,5000,100000,EUR,40000
+1004,Model Y,México,América Latina,2024,60,12000,51000,MXN,34000
+1005,Model S,Canada,Otra,2024,100,8000,92000,CAD,37000
+1006,Model 3,Francia,Otra,2024,75,18000,45000,EUR,33000
+1007,Model X,Japón,Otra,2024,110,3500,115000,JPY,42000
+1008,Model Y,Noruega,Otra,2024,60,15000,58000,NOK,35000
+1009,Model S,Korea del Sur,Otra,2024,100,7000,90000,KRW,38000
+1010,Model 3,Australia,Otra,2024,75,10000,55000,AUD,31000
+1011,Model S,Perú,América Latina,2024,100,5000,100000,PEN,39000
+1012,Model 3,República Dominicana,América Latina,2024,75,8000,52000,DOP,35000
+1013,Model X,Brasil,América Latina,2024,110,4000,120000,BRL,44000
+1015,Model S,Honduras,América Latina,2024,100,2000,88000,HNL,41000
+1016,Model 3,Nicaragua,América Latina,2024,75,3000,49000,NIO,36000
+1017,Model X,Bolivia,América Latina,2024,110,12000,51000,BOB,40000
+1018,Model Y,Chile,América Latina,2024,60,12000,51000,CLP,34000
