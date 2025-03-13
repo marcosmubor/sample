@@ -1,0 +1,16 @@
+ID_Sucursal,ID_Producto,Nombre_Producto,Fecha,Total_Venta_Neta,Total_Impuestos
+3,115,"Tarjeta gráfica NVIDIA GeForce RTX 3060",2024-04-08,499.99,95.00
+1,116,"Impresora 3D Creality Ender 3",2024-04-08,199.99,38.00
+2,117,"Monitor gaming ASUS 27""",2024-04-08,349.99,66.50
+1,118,"Teclado ergonómico Microsoft",2024-04-09,59.99,11.40
+2,119,"Ratón gaming Razer DeathAdder",2024-04-09,79.99,15.20
+1,120,"Auriculares con cancelación de ruido Bose",2024-04-09,299.99,57.00
+3,121,"Smartwatch Apple Watch Series 7",2024-04-10,399.99,76.00
+1,122,"Teléfono IP Cisco",2024-04-10,129.99,24.70
+2,123,"Escáner de documentos Epson",2024-04-10,89.99,17.10
+1,124,"Altavoces para PC Logitech",2024-04-11,79.99,15.20
+2,125,"Teclado mecánico Corsair",2024-04-11,119.99,22.80
+3,126,"Ratón inalámbrico Microsoft",2024-04-11,39.99,7.60
+1,127,"Monitor curvo Samsung 32""",2024-04-12,449.99,85.50
+2,128,"Auriculares gaming HyperX Cloud",2024-04-12,99.99,19.00
+1,129,"Impresora láser HP LaserJet Pro",2024-04-12,299.99,57.00
