@@ -1,0 +1,11 @@
+ID_Cliente,Nombre_Cliente,Ciudad,Pais
+101,Ana Pérez,Santiago,Chile
+102,Juan González,Buenos Aires,Argentina
+103,María López,Ciudad de México,México
+104,Carlos Rodríguez,Lima,Perú
+105,Sofía Gómez,Bogotá,Colombia
+106,Pedro Vargas,Santiago,Chile
+107,Laura Torres,Buenos Aires,Argentina
+108,Diego Castro,Ciudad de México,México
+109,Valentina Ruiz,Lima,Perú
+110,Javier Díaz,Bogotá,Colombia

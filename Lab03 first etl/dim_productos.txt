@@ -1,0 +1,11 @@
+ID_Producto,Nombre_Producto,Categoria,Precio_Unitario
+1,Laptop HP,Electrónica,1200
+2,Monitor Dell 27",Electrónica,300
+3,Teclado Mecánico Logitech,Accesorios,80
+4,Mouse Inalámbrico,Accesorios,30
+5,Impresora Multifuncional,Oficina,150
+6,Smartphone Samsung,Electrónica,900
+7,Tablet Android,Electrónica,350
+8,Auriculares Bluetooth Sony,Accesorios,120
+9,Silla de Oficina Ergonómica,Oficina,250
+10,Escritorio de Madera,Oficina,180
